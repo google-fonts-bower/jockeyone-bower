@@ -1,0 +1,17 @@
+{
+    "name": "jockeyone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "TypeTogether"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/jockeyone-bower.git"
+    },
+    "description": "Jockey One font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
